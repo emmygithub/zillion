@@ -51,7 +51,7 @@ function App() {
                 {menuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
               </button>
               <h2>Zillion Solution</h2>
-              <img src="public/vite.svg" alt="Logo" className="h-10" />
+              <img src="/vite.svg" alt="Logo" className="h-10" />
             </div>
 
             {/* Desktop Navigation */}
